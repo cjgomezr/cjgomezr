@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 Welcome to my GitHub page. I am passionate about automation and software development, with expertise using UiPath, PAD, and Python. I specialize in creating innovative ideas.
 
 ### 🔧 Technologies & Tools
@@ -15,4 +15,4 @@ Welcome to my GitHub page. I am passionate about automation and software develop
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 📫 How to reach me: ...
--->!
+-->
