@@ -7,9 +7,9 @@ Welcome to my GitHub page. I am passionate about automation and software develop
     • Web frontend technologies: ReactJs.
 
 ### 💼 What I Do
-    • Engineering Management.
-    • Automation desing and development.
-    • Sofware Development: Crafting backend and frontend components with Python and JavaScript.
+• Engineering Management.
+• Automation desing and development.
+• Sofware Development: Crafting backend and frontend components with Python and JavaScript.
     
 <!--
 - 🔭 I’m currently working on ...
