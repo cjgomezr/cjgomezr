@@ -2,9 +2,9 @@
 Welcome to my GitHub page. I am passionate about automation and software development, with expertise using UiPath, PAD, and Python. I specialize in creating innovative ideas.
 
 ## 🔧 Technologies & Tools
--Automation tools: UiPath and Power Automate.
--Programming languages: Python and JavaScript.
--Web frontend technologies: ReactJs.
+- Automation tools: UiPath and Power Automate.
+- Programming languages: Python and JavaScript.
+- Web frontend technologies: ReactJs.
 
 ## 💼 What I Do
 - Engineering Management.
